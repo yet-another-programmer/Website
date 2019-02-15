@@ -1,0 +1,35 @@
+.navigation
+{
+	display: block;
+	background-color: #00FFFF;
+
+}
+body
+{
+	margin: 0px;
+}
+.list
+{
+	margin: 0px;
+	list-style: none;
+	padding-left: 0px;
+
+}
+.navi
+{
+	text-decoration: none;
+	color: #FFFFFF;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: helvetica,Palatino;
+	font-style: bold;
+}
+.nav1
+{
+	display: inline-block;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	
+}
