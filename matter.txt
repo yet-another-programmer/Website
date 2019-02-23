@@ -1,0 +1,92 @@
+Intro: 
+
+Hi!
+I am Adhishwar
+
+I am a Computer Science Engineering undergrad based in chennai skilled in full stack web development with a passion for computers. I'd like to pursue a career in data science. I'm currently doing an iOS course on Udemy and increasing my knowledge in the field of Data science.
+
+Places I've worked at...
+
+1)
+
+Filmak.in
+ECR, thiruvanmiyur
+(June 2018 - Aug 2018)
+
+Website Admin
+. Debugged an already live website
+. Added functionalities to the site
+
+2)
+Futurenet Technologies
+Maduravoyal, Chennai
+Dec 2017 - Dec 2017
+
+Data Analytics Intern
+. Assisted the Data Analytics in performing analysis on machine generated logs using Splunk to gain operational intelligence
+
+Places I've studied at ...
+
+Rajalakshmi Engineering College, Chennai
+(2016-2020)
+
+Bachelor of Engineering in Computer Science and Engineering
+CGPA: 7.0
+
+Activities and Socities:
+. Founder and first President of The Code Club,REC
+. Active member of the Entrepreneurship Cell of the College and been a part of the organising team of a national level entrepreneurship conclave. Attended various workshops on the nuances of running a business
+. Member of the Debating union and atended national level debates, MUNs and mock G20 summits
+. Won the Best Delegate in the mock G20 summit conducted by College of Engineering,Guindy as a part of Kurukshetra
+. Designed and developed the website of the first inter college cultural fest hosted by the college
+
+Courses Taken till date: (partial list)
+. Database Management Systems
+. Computer Networks
+. Operating Systems
+. Object Oriented Analysis and Design
+. Probability and Queueing Theory
+. Discrete Mathematics
+. Design and Analysis of Algorithms
+. Internet Programming
+. Theory of Computation 
+. Distributed Systems
+. Artificial Intelligence
+. Data Warehousing and Data Mining (Elective)
+Click here to see full course content
+
+
+Bhavan's Rajaji Vidyashram, Kilpauk, Chennai
+MPC and Computer Science in Higher Secondary
+Higher Secondary, Class of 2016
+Graduated with an aggregate of 435/500 in the AISSCE and a CGPA of 9.6/10 in SSC
+Activities and Societies: 
+• An active quizzer and attended national level science quizzes
+• Attended various debates and MUNs
+• Power forward in the school U-16 Basketball team
+
+
+Skills i posess ...
+C++
+C
+MySQL
+Data structures and algorithms
+HTML
+CSS
+php
+Bootstrap
+Swift
+
+
+Tools i'm familiar with ...
+Git
+macOS
+Splunk
+Xcode
+
+Links:
+
+https://www.linkedin.com/in/adhishwar-s-268953b2/
+adhishwar@yahoo.com
+https://github.com/adhishwar
+https://www.kaggle.com/adhishwar
